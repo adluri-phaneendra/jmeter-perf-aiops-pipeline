@@ -15,4 +15,4 @@ JMeter Script → GitHub → Jenkins → Execute Tests → Datadog Monitoring
 - Monitors: response time, error rate, throughput
 
 ## Author
-Phaneendra Adluri | 9 Years Performance Testing + AIOps
+Phaneendra Adluri | 8+ Years Performance Testing + AIOps
